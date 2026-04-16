@@ -73,6 +73,3 @@ streamlit run app.py
 
 Based on the Credit Card Fraud Detection dataset (Kaggle)
 
-
-```
-```
